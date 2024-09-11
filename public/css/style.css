@@ -1,0 +1,98 @@
+/* reset preflight */
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: system-ui, sans-serif;
+  text-decoration: none;
+  color: rgb(9 9 11);
+}
+
+body {
+  background-color: rgb(244 244 245);
+}
+
+main header, main section {
+  padding: 2rem 0;
+}
+
+
+/* Main Header */
+main header {
+  max-width: 568px;
+  margin: 0 auto;
+}
+
+main header figure div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 16px;
+}
+
+main header figure div img {
+  width: 150px;
+  border-radius: 16px;
+  border: solid 1px rgb(203 213 225);
+  padding: 0.25rem;
+}
+
+main header figure div h1 {
+  font-size: 22px;
+}
+
+main header figure figcaption {
+  margin-top: 16px;
+  text-align: justify;
+  color: rgb(51 65 85);
+}
+
+
+/* Main Section */
+main section h2 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 26px;
+  margin-bottom: 12px;
+}
+
+main section h2 span:last-child {
+  font-size: 18px;
+  color: rgb(82 82 91);
+  font-weight: 500;
+}
+
+main section ul {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  grid-row: 400px;
+}
+
+
+
+
+/* Resposive Breakpoint */
+@media (min-width: 768px) {
+  /* Main Section */
+  main section h2 {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 6px;
+    font-size: 32px;
+  }
+
+  main section ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  /* Main Section */
+  main section ul {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}

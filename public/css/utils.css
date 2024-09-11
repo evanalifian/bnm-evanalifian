@@ -1,0 +1,47 @@
+.container {
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.card {
+  border: solid 1px rgb(203 213 225);
+  padding: 10px;
+  border-radius: 12px;
+  position: relative;
+}
+
+.card_image {
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 400px;
+}
+
+.card_image::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 28px;
+  background-color: rgba(0, 0, 0, 0.479);
+}
+
+.card_content {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 20px;
+  z-index: 9999;
+}
+
+.card_content span {
+  color: rgb(241 245 249);
+  font-weight: 500;
+}
