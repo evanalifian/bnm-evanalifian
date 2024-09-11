@@ -182,7 +182,7 @@
   {
     "id": 24,
     "fotoformal": "https://storageangkatan.netlify.app/src/formal/y6qlfmp2ouzfbasn9tnk.jpg",
-    "fotoselfie": "https://storageangkatan.netlify.app/src/selfie/crcldaqonootcvghixve.jpg",
+    "fotoselfie": "./assets/badruz.jpg",
     "nama": "Badruz Zaman Ash Sholih",
     "kelompok": 3,
     "nim": "240411100140",
@@ -242,7 +242,7 @@
   {
     "id": 29,
     "fotoformal": "https://storageangkatan.netlify.app/src/formal/fdlmpzcdktgjvaxmufn7.jpg",
-    "fotoselfie": "https://storageangkatan.netlify.app/src/selfie/gn0zecorhhelibfmzckw.jpg",
+    "fotoselfie": "./assets/fikri.jpg",
     "nama": "A. Fikri Mutawakkil",
     "kelompok": 1,
     "nim": "240411100105",
@@ -410,7 +410,7 @@
   {
     "id": 44,
     "fotoformal": "https://storageangkatan.netlify.app/src/formal/sjkdyfalhapkvqzmur4n.png",
-    "fotoselfie": "https://storageangkatan.netlify.app/src/selfie/vki6yo7qgh8qurkil968.jpg",
+    "fotoselfie": "./assets/uqi.jpg",
     "nama": "ABDULLAH NURIZQI A.M",
     "kelompok": 5,
     "nim": "240411100158",
@@ -842,7 +842,7 @@
   {
     "id": 86,
     "fotoformal": "https://storageangkatan.netlify.app/src/formal/penbbiib58nrl5jqg0on.png",
-    "fotoselfie": "https://storageangkatan.netlify.app/src/selfie/z7xtf28pqbsxvby8dxpj.jpg",
+    "fotoselfie": "./assets/riel.jpg",
     "nama": "A.Choiril Anwar EL-Asfihani Risydan",
     "kelompok": 8,
     "nim": "240411100098",
@@ -1082,7 +1082,7 @@
   {
     "id": 114,
     "fotoformal": "https://storageangkatan.netlify.app/src/formal/uhqjqqxy74azbbslp6ie.jpg",
-    "fotoselfie": "https://storageangkatan.netlify.app/src/selfie/tnpmf116nqlt4jnbt5sl.jpg",
+    "fotoselfie": "./assets/byan.jpg",
     "nama": "Abyan Naufal Yunianto",
     "kelompok": 4,
     "nim": "240411100178",
@@ -1478,7 +1478,7 @@
   {
     "id": 150,
     "fotoformal": "https://storageangkatan.netlify.app/src/formal/wermbefmt0oco944j9og.jpg",
-    "fotoselfie": "https://storageangkatan.netlify.app/src/selfie/eywp89sz2ch8fiqa8mxx.jpg",
+    "fotoselfie": "./assets/azka.jpg",
     "nama": "Azka Syaikhu",
     "kelompok": 9,
     "nim": "240411100028",
@@ -2366,7 +2366,7 @@
   {
     "id": 245,
     "fotoformal": "https://storageangkatan.netlify.app/src/formal/ixt3ok6wfiuio9ksneif.webp",
-    "fotoselfie": "https://storageangkatan.netlify.app/src/selfie/l5qmu9ikrvrj7yknr5dq.jpg",
+    "fotoselfie": "./assets/agiz.jpg",
     "nama": "hasnah Latifiyah Agizni",
     "kelompok": 12,
     "nim": "240411100130",
